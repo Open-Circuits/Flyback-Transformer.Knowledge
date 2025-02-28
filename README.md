@@ -10,7 +10,7 @@ by: The Knurd Lab
 
 by: RGB Engineering
 - [Flyback Converter Basics (for Beginners)](https://youtu.be/4HQli7sg9V4)
-  - [Flyback Snubber Design Guide (for Beginners) | RCD Snubber Design](\https://youtu.be/3xYXGORIprk) 
+  - [Flyback Snubber Design Guide (for Beginners) | RCD Snubber Design](https://youtu.be/3xYXGORIprk) 
 
 other:
 https://www.customcoils.com/guide-to-the-flyback-transformer/
